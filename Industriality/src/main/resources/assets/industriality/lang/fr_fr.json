@@ -1,0 +1,14 @@
+{
+  "item.industriality.steel_plate": "Plaque d'Acier",
+  "item.industriality.steel_ingot": "Lingot d'Acier",
+  "item.industriality.fast_sword": "Fast Sword",
+  "item.industriality.dagger": "Dague",
+  "item.industriality.steel_stick": "Baton d'Acier",
+  "item.industriality.steel_handle": "Poigne d'Acier",
+  "block.industriality.steel_block": "Bloc d'Acier",
+  "item.industriality.steel_plated_helmet": "Casque en Acier Plaqué",
+  "item.industriality.steel_plated_chestplate": "Plastron en Acier Plaqué",
+  "item.industriality.steel_plated_leggings": "Pantalon en Acier Plaqué",
+  "item.industriality.steel_plated_boots": "Bottes en Acier Plaqué",
+  "itemGroup.industriality": "Industriality"
+}

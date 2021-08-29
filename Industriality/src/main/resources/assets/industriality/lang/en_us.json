@@ -1,0 +1,14 @@
+{
+  "item.industriality.steel_plate": "Steel Plate",
+  "item.industriality.steel_ingot": "Steel Ingot",
+  "item.industriality.fast_sword": "Fast Sword",
+  "item.industriality.dagger": "Dagger",
+  "item.industriality.steel_stick": "Steel Stick",
+  "item.industriality.steel_handle": "Steel Handle",
+  "block.industriality.steel_block": "Steel Block",
+  "item.industriality.steel_plated_helmet": "Steel Plated Helmet",
+  "item.industriality.steel_plated_chestplate": "Steel Plated Chestplate",
+  "item.industriality.steel_plated_leggings": "Steel Plated Leggings",
+  "item.industriality.steel_plated_boots": "Steel Plated Boots",
+  "itemGroup.industriality": "Industriality"
+}

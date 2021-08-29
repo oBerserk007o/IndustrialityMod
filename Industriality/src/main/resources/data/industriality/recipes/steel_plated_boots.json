@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "p p",
+    "p p"
+  ],
+  "key":
+  {
+    "p":
+    {
+      "item": "industriality:steel_plate"
+    }
+  },
+  "result":
+  {
+    "item": "industriality:steel_plated_boots",
+    "count": 1
+  }
+}

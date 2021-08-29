@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " p ",
+    "psp",
+    " p "
+  ],
+  "key":
+  {
+    "p":
+    {
+      "item": "industriality:steel_plate"
+    },
+    "s":
+    {
+      "item": "industriality:steel_stick"
+    }
+  },
+  "result":
+  {
+    "item": "industriality:steel_handle",
+    "count": 4
+  }
+}

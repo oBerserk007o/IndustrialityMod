@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " s ",
+    " s ",
+    " h "
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "industriality:steel_stick"
+    },
+    "h":
+    {
+      "item": "industriality:steel_handle"
+    }
+  },
+  "result":
+  {
+    "item": "industriality:fast_sword",
+    "count": 1
+  }
+}

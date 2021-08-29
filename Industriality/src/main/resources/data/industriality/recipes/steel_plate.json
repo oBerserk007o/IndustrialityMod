@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "industriality:steel_ingot"
+    },
+    {
+      "item": "minecraft:piston"
+    }
+  ],
+  "result":
+  {
+    "item": "industriality:steel_plate",
+    "count": 4
+  }
+}
